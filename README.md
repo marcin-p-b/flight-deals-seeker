@@ -9,3 +9,6 @@ You can send emails to multiple people through writting the names and adresses i
 
 ![users_sheet](https://github.com/marcin-p-b/flight-deals-seeker/assets/162914885/0d45dad3-0c26-4139-903c-417bfbc6534d)
 
+Successfully delivered message:
+
+![image](https://github.com/marcin-p-b/flight-deals-seeker/assets/162914885/7df27656-4e8a-4acf-b3f3-b96d7e35a82d)
